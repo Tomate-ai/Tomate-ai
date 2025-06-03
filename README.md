@@ -1,52 +1,60 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/n%C3%A9stor-mart%C3%ADnez-221b5327b/">Néstor Martínez</a> 👋</h1>
+# Néstor Martínez
 
-<p align="center">💻 Desarrollador en formación | 🧠 Apasionado por la IA y la automatización | 🚀 Construyendo el futuro, un sistema a la vez.</p>
+**Full Stack Developer** | **Systems Analysis Student**
 
----
-
-### Sobre mí
-
-Soy estudiante avanzado de la carrera de **Análisis de Sistemas** en Paraguay y desarrollador full stack en constante crecimiento. Actualmente lidero el desarrollo de mi primer sistema SaaS real con tecnologías modernas como **React, NestJS, PostgreSQL, Zustand, TanStack Query y Vite**, con arquitectura **multitenant**.
-
-También soy cofundador de **EVØWARE**, donde diseñamos soluciones digitales de alto impacto para pymes y profesionales, combinando desarrollo web, branding y estrategia digital.
+Desarrollador especializado en arquitecturas modernas y soluciones SaaS escalables. Cofundador de EVØWARE, enfocado en crear sistemas digitales de alto impacto para empresas y profesionales.
 
 ---
 
-### 🚀 Tecnologías que manejo
+## Experiencia
 
-- **Frontend:** React, Vite, Zustand, TanStack Query, Tailwind CSS  
-- **Backend:** NestJS, PostgreSQL, Prisma, REST APIs  
-- **DevOps básico:** Git, GitHub, Netlify, Vercel  
-- **Diseño y documentación:** Figma, Canva, Notion, Markdown
+**Cofundador & Lead Developer** — EVØWARE  
+*2024 - Presente*
+- Desarrollo de soluciones digitales integrales para pymes
+- Arquitectura y desarrollo de sistemas SaaS multitenancy
+- Liderazgo técnico en proyectos de branding y estrategia digital
 
----
-
-### 🎯 Objetivos actuales
-
-- Lanzar un sistema SaaS funcional y escalable en producción  
-- Contribuir a proyectos open-source con impacto real  
-- Conseguir mi primer trabajo en el área IT  
-- Aprender más sobre arquitecturas limpias, testing y DevOps avanzado
+**Estudiante Avanzado** — Análisis de Sistemas  
+*Universidad, Paraguay*
 
 ---
 
-### 📫 Cómo contactarme
+## Stack Tecnológico
 
-- [LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-mart%C3%ADnez-221b5327b/)
-- [GitHub](https://github.com/Tomate-ai)
-- Email: reyesnestor673@gmail.com
+**Frontend**  
+React • Vite • Zustand • TanStack Query • Tailwind CSS
 
----
+**Backend**  
+NestJS • PostgreSQL • Prisma • REST APIs
 
-### ⚡ Fun Fact
-
-Me apasiona aprender de forma autodidacta, organizar ideas visualmente y explicar temas complejos con claridad. También estoy desarrollando una página web para mi pareja inspirada en estética japonesa y fantasía victoriana (sí, el amor y el código pueden convivir).
-
----
-
-> “No busco ser mejor que nadie, sino mejor que yo mismo ayer.” – 💡
+**Herramientas**  
+Git • GitHub • Netlify • Vercel • Figma • Notion
 
 ---
 
-¿Querés que esta versión te la pase ya con diseño markdown listo y emojis bien pulidos? ¿O le pasás el prompt a Claude y después te ayudo a pulir lo que él te dé?
+## Proyectos Destacados
+
+**Sistema SaaS Multitenancy**  
+Plataforma completa desarrollada con React, NestJS y PostgreSQL. Arquitectura escalable con gestión de múltiples inquilinos y APIs RESTful optimizadas.
+
+**Soluciones Digitales EVØWARE**  
+Desarrollo de sistemas personalizados para pymes, incluyendo gestión empresarial, e-commerce y automatización de procesos.
+
+---
+
+## Objetivos
+
+- Consolidar el lanzamiento de sistemas SaaS en producción
+- Contribuir a proyectos open-source de impacto
+- Incorporarme al ecosistema tecnológico profesional
+- Especializarme en arquitecturas limpias y DevOps avanzado
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-mart%C3%ADnez-221b5327b/) • [GitHub](https://github.com/Tomate-ai) • reyesnestor673@gmail.com
+
+---
+
+*"La excelencia es un hábito, no un acto"*
